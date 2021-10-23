@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nova-uk
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning HTML/CSS/JS/REACT/SQL/PYTHON/POWERSHELL/Node.js
+- 🌱 I’m currently learning HTML/CSS/JS/REACT/SQL/PYTHON/Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
